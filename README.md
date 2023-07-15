@@ -1,6 +1,8 @@
 # Investigate-a-Movie-Dataset
 "Copyright Disclaimer: This project is protected by copyright laws and should not be copied or reproduced without explicit permission from the author. Unauthorized use or distribution of any part of this project is strictly prohibited. All rights reserved."
 
+**You can open either the html file or ipynb file.**
+
 TMDb Movie Data Analysis
 
 This project, completed as part of the Udacity Data Analyst Nanodegree program by Mehrol Bazarov, focuses on exploring and analyzing a rich dataset called "tmdb_movie.csv." This dataset contains a wealth of information about thousands of movies, ranging from classic romance to modern action-packed thrillers.
